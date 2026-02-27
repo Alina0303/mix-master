@@ -1,6 +1,6 @@
-##Cocktail App
+## Cocktail App
 
-##Deply 
+## Deply 
 [Mix-master](https://mix-master-personal-project.netlify.app/)
 
 A modern React application for searching and exploring cocktails using data from the TheCocktailDB API.
@@ -8,7 +8,7 @@ A modern React application for searching and exploring cocktails using data from
 The app allows users to search for cocktails, view detailed information, and navigate smoothly between pages with a clean and responsive UI.
 
 
-##Tech Stack
+## Tech Stack
 
 React
 
@@ -22,7 +22,7 @@ Styled Components — for component-level styling
 
 Loader — for handling loading states
 
-##Features
+## Features
 
 🔍 Search cocktails by name
 
